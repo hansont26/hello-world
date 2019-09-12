@@ -1,4 +1,3 @@
-# hello-world
-just another repository
-
-just writing some stuff for the sake of writing something
+Taylor Hanson
+Xilinx Zynq ARM Cortex-9
+Pepperoni and red pepper flakes
